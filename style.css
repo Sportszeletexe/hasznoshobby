@@ -1,4 +1,16 @@
 #logoo {
-    height: 50%;
-    width: 20%;
+    height: 50px;
+    width: 250px;
+}
+#kepdiv {
+    height: 500px;
+    width: 100%;
+}
+#fejkep {
+    height: 15%;
+}
+@media screen and (max-width: 600px) {
+    #asd {
+        display: none;
+    }
 }

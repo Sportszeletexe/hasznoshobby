@@ -14,3 +14,27 @@
         display: none;
     }
 }
+@media screen and (max-width: 345px) {
+    #logoo {
+        display: none;
+    }
+}
+#tartalom {
+    margin-top: 3.5%;
+}
+#nav{
+    background-color: rgba(163, 159, 161, 0.8);
+}
+#asd {
+    margin-top: 0.5%;
+}
+.dropdown-item {
+    color: black;
+}
+#navbarSupportedContent a {
+    color: white;
+}
+
+#navbarSupportedContent .dropdown-menu  {
+    background-color: rgba(163, 159, 161, 0.8);
+}

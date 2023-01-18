@@ -38,3 +38,24 @@
 #navbarSupportedContent .dropdown-menu  {
     background-color: rgba(163, 159, 161, 0.8);
 }
+#zolikakep{
+    width: 100%;
+    max-height: 65%;
+}
+
+  #leiras {
+    margin-top: 1.5%;
+  }
+  #leirasszoveg {
+    padding: 2%;
+  }
+  #h2{
+    margin-top: 2.5%;
+    text-align: center;
+  }
+  #h3 {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+  }
+  

@@ -94,3 +94,10 @@ p,h2,h3,nav {
   #myBtn:hover {
     background-color: #555;
   }
+  #game{
+    margin-top: 50px;
+  }
+
+.carousel.slide{
+    height: 100%;
+}
